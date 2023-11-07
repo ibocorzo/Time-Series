@@ -1,1 +1,4 @@
-Code of Time Series Analysis
+DESCRIPTION:
+Code of Time Series Analysis.
+usa_arima.xlsx contains price index of Brent and WTI over the years.
+The code is useful to visualize the data and to learn how the check stationarity of a series and estimate an ARIMA.
